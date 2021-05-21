@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unit5.4.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_data_wrangling_mini_project-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/recipeitems-latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/recipeitems-latest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srinik_tabular_data_eda.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_operations_in_pandas_unit5.4.2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_operations_in_pandas_unit5.4.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/string_operations_in_pandas_unit5.4.2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1621626582932</updated>
       <workItem from="1621626586882" duration="160000" />
+      <workItem from="1621627016598" duration="401000" />
+      <workItem from="1621627436106" duration="28000" />
     </task>
     <servers />
   </component>
@@ -65,5 +61,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
