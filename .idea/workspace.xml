@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="" />
+    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-humor.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/spiders/quotes_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminproject.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -55,6 +73,8 @@
       <workItem from="1621747336225" duration="381000" />
       <workItem from="1621802330742" duration="33000" />
       <workItem from="1621896436987" duration="329000" />
+      <workItem from="1623740209612" duration="3494000" />
+      <workItem from="1623743714037" duration="160000" />
     </task>
     <servers />
   </component>
