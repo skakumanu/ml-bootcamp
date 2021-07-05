@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml-bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit5.4.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/unit5.4.4.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +53,14 @@
       <workItem from="1621629758434" duration="700000" />
       <workItem from="1621640257999" duration="75000" />
       <workItem from="1621642272813" duration="45000" />
-      <workItem from="1622501322198" duration="1019000" />
+      <workItem from="1621903522720" duration="113000" />
+      <workItem from="1621965780677" duration="55000" />
+      <workItem from="1621979489299" duration="607000" />
+      <workItem from="1622526434806" duration="776000" />
+      <workItem from="1622612296473" duration="25000" />
+      <workItem from="1622674360803" duration="101000" />
+      <workItem from="1622741980201" duration="733000" />
+      <workItem from="1622847265892" duration="3000" />
     </task>
     <servers />
   </component>
