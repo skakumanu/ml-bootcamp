@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="" />
+    <list default="true" id="f950f52a-e219-4f0e-897e-2e7e82a9b4d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/cast.csv.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/release_dates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes-humor.jl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/quotes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminiproject/spiders/quotes_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapyminiproject/scrapyminproject.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit5.3.1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit5.3.13.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit5.4.4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/unit5.4.4.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -26,6 +50,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -53,14 +78,12 @@
       <workItem from="1621629758434" duration="700000" />
       <workItem from="1621640257999" duration="75000" />
       <workItem from="1621642272813" duration="45000" />
-      <workItem from="1621903522720" duration="113000" />
-      <workItem from="1621965780677" duration="55000" />
-      <workItem from="1621979489299" duration="607000" />
-      <workItem from="1622526434806" duration="776000" />
-      <workItem from="1622612296473" duration="25000" />
-      <workItem from="1622674360803" duration="101000" />
-      <workItem from="1622741980201" duration="733000" />
-      <workItem from="1622847265892" duration="3000" />
+      <workItem from="1621747336225" duration="381000" />
+      <workItem from="1621802330742" duration="33000" />
+      <workItem from="1621896436987" duration="329000" />
+      <workItem from="1623740209612" duration="3494000" />
+      <workItem from="1623743714037" duration="160000" />
+      <workItem from="1625452213441" duration="1253000" />
     </task>
     <servers />
   </component>
@@ -78,5 +101,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
